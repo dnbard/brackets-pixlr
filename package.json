@@ -1,0 +1,13 @@
+{
+    "name": "dnbard.pixlr",
+    "title": "Pixlr image editor",
+    "description": "Image editor inside Brackets IDE",
+    "homepage": "",
+    "version": "0.1.0",
+    "author": "Alex Bardanov <dnbard@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.32.0"
+    },
+    "keywords": ['image', 'photo', 'editor', 'photoshop', 'pixlr']
+}
