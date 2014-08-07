@@ -12,7 +12,6 @@ define(function(require, exports){
     }
 
     function isFlashPlayerInstalled(){
-        return false;
         return !!navigator.mimeTypes ["application/x-shockwave-flash"];
     }
 
