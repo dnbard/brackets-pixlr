@@ -7,18 +7,22 @@
     width: 100%;
     height: 100%;
     overflow: hidden !important;
+    background: #181A1F;
 }
 
 .ext_pixlr .modal-body{
     max-height: none;
     position: static;
     overflow: hidden;
+    background: #181A1F;
 }
 
 .ext_pixlr .modal-footer{
     position: absolute;
     top: 0;
     right: 0;
+    background: #181A1F;
+    border: none;
 }
 
 .ext_pixlr iframe{
@@ -29,4 +33,8 @@
     margin-top: 30px;
     left: 0;
     border: 0;
+}
+
+.ext-pixlr .btn-close{
+    border: none !important;
 }
