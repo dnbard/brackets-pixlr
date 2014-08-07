@@ -37,4 +37,5 @@
 
 .ext-pixlr .btn-close{
     border: none !important;
+    background: red;
 }
