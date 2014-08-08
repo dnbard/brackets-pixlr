@@ -9,5 +9,5 @@
     "engines": {
         "brackets": ">=0.32.0"
     },
-    "keywords": ['image', 'photo', 'editor', 'photoshop', 'pixlr']
+    "keywords": ["image", "photo", "editor", "photoshop", "pixlr"]
 }
