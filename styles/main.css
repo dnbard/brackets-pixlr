@@ -35,7 +35,8 @@
     border: 0;
 }
 
-.ext-pixlr .btn-close{
-    border: none !important;
-    background: red;
+#btnPixlrClose{
+    background: gray;
+    border: none;
+    box-shadow: none;
 }

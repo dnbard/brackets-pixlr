@@ -7,4 +7,6 @@ define(function (require, exports, module) {
 
     iconService.init();
     iconService.click(modalService.showHandler);
+
+    require('./services/onlineTracking').init();
 });
