@@ -23,6 +23,7 @@
     right: 0;
     background: #181A1F;
     border: none;
+    padding: 2px 15px;
 }
 
 .ext_pixlr iframe{
@@ -30,7 +31,7 @@
     height: 100%;
     overflow: hidden;
     position: absolute;
-    margin-top: 30px;
+    margin-top: 15px;
     left: 0;
     border: 0;
 }
