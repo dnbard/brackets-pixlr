@@ -1,9 +1,9 @@
 {
     "name": "dnbard.pixlr",
     "title": "Pixlr",
-    "description": "Powerful image editor inside Brackets IDE",
+    "description": "Powerful image editor inside Brackets IDE. Flash player required.",
     "homepage": "https://github.com/dnbard/brackets-pixlr",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author": "Alex Bardanov <dnbard@gmail.com>",
     "license": "MIT",
     "engines": {
